@@ -1,2 +1,2 @@
 # digital-detox
-Hosting for v1 of Digital Detox
+Hosting for v1 of Digital Detox 
